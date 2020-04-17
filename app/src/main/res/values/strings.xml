@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hello bikroy</string>
+    <string name="title_home">Home</string>
+    <string name="title_photo">All ads</string>
+    <string name="title_postad">Post ad</string>
+    <string name="title_eshop">E-shop</string>
+    <string name="title_option">More</string>
+
+</resources>
